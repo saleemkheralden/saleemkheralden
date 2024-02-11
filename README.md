@@ -1,6 +1,5 @@
 ### Hi there 👋
-## My name is Saleem Kheralden im a senior year student majoring in Data Science and Engineering
-
+My name is Saleem Kheralden im a senior year student majoring in Data Science and Engineering
 
 
 <!--
