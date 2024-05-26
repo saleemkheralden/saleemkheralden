@@ -55,7 +55,7 @@ My name is Saleem Kheralden, and I am a senior year student majoring in Data Sci
 
 ### 💬 Let's Connect!
 
-I am always open to discussing new projects, collaborations, or any exciting opportunities in the field of data science and cybersecurity. Feel free to reach out!
+I am always open to discussing new projects, collaborations, or any exciting opportunities in the field of data science. Feel free to reach out!
 
 ---
 
