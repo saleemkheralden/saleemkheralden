@@ -1,62 +1,81 @@
-Hi there 👋
-
-My name is Saleem Kheralden, and I am a senior year student majoring in Data Science and Engineering. I have completed three years of coursework under the Cyber Education Center. My academic journey has equipped me with a solid foundation in data analysis, machine learning, and cybersecurity.
-
-### 🔭 Projects & Experience
-
-- **Datathon (Aug 2020):** The task of the datathon was to predict and come up with a solution to crop and food distribution across the country.
-
-- **AI Projects:**
-  - **Fleet Distribution:** Created an AI model to efficiently distribute a fleet of taxis across a map.
-  - **Chess Bot:** Developed a chess bot in C# using the Minimax algorithm, various heuristics, and Deep Q-Networks (DQNs).
-  - **Lunar Lander Agent:** Implemented an agent using Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Asynchronous Advantage Actor-Critic (A3C).
-
-- **Distributed Database Management:**
-  - **Database Redesign:** Redesigned a company’s database to maximize efficiency and increase sales.
-  - **Lifestyle Improvement:** Helped an association improve the lifestyle of humans using Apache Spark and machine learning.
-
-- **Magshimim Final Project:**
-  - Developed a website using Flask for the backend and standard HTML, CSS, and JavaScript for the frontend. Integrated a language model using TensorFlow to detect users' emotions and generate appropriate responses.
-
-### 🌱 Skills
-
-- **Programming Languages:** Python, C, C#, C++, Java, R, MATLAB, SQL
-- **Data Analysis and Visualization:** Tableau, Pandas, NumPy, Matplotlib
-- **Machine Learning:** Scikit-learn, Self-organizing maps, Boltzmann Machines
-- **Deep Learning:** PyTorch, TensorFlow
-- **AI Techniques:** Q Learning, Constraint Satisfaction Problems (CSP), Deep Q Learning, A3C
-
-### 📜 Education
-
-- **Technion – Israel Institute of Technology (2020 - 2024):** B.Sc. in Data Science. Current GPA: 84.4
-  - Relevant Courses: Machine Learning (Intro + Advanced), Deep Learning, Artificial Intelligence, Statistics, Advanced Algebra, and Optimization.
-
-- **Magshimim Cyber Education Center (2018 - 2020)**
-  - Final project in Full Stack Development and Deep Learning/NLP
-
-### 🎓 Certifications
-
-- **Deep Learning A-Z, Udemy**
-- **Artificial Intelligence A-Z, Udemy**
-- **Django Full Stack Bootcamp, Udemy**
-
-### 🌐 Languages
-
-- **Arabic:** Native
-- **Hebrew:** Fluent
-- **English:** Fluent
-
-### 📫 How to Reach Me
-
-- Email: saleemkheralden21@gmail.com
-- LinkedIn: [linkedin.com/in/saleemkheralden](https://www.linkedin.com/in/saleemkheralden/)
-- GitHub: [github.com/saleemkheralden](https://github.com/saleemkheralden)
-- GitLab: [gitlab.com/saleemkheralden](https://gitlab.com/saleemkheralden)
-
-### 💬 Let's Connect!
-
-I am always open to discussing new projects, collaborations, or any exciting opportunities in the field of data science. Feel free to reach out!
+<div align="center">
+  <h1 align="center">👋 Hello World! I'm Saleem Kheralden</h1>
+  <p align="center">
+    🎓 B.Sc. in Data Science from Technion | 🤖 AI Engineer | 🇮🇱 IDF
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=saleemkheralden&style=for-the-badge&color=blue" alt="Profile views">
+</div>
 
 ---
 
-Thank you for visiting my profile. Stay tuned for more updates and projects!
+## 🚀 Professional Focus & Experience
+
+I am an **AI Engineer** at the IDF, transitioning from a Data Engineering role. I leverage advanced machine learning, deep learning, and robust MLOps practices to build scalable, high-impact AI solutions.
+
+### 🏢 Career Highlights (IDF)
+
+| Role | Duration | Key Focus |
+| :--- | :--- | :--- |
+| **AI Engineer** | Nov 2025 – Present | Developing and deploying cutting-edge ML models (Time Series, NLP/CV). Implementing end-to-end MLOps workflows using Python, PyTorch/TensorFlow. |
+| **Data Engineer** | Nov 2024 – Nov 2025 | Built and maintained ETL pipelines using **Airflow**, Python, and SQL. Managed and optimized data in **Oracle DB** to ensure quality and availability for ML initiatives. |
+
+---
+
+## 🧠 Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | **Python** (Core), C, C++, Java, R, MATLAB, SQL, JavaScript, TypeScript |
+| **MLOps / Data Engineering** | **Airflow**, OracleDB, Datalake, Kafka, Trino |
+| **Deep Learning / ML** | **PyTorch, TensorFlow**, scikit-learn, Self-organizing maps, Boltzmann Machines |
+| **AI & Algorithms** | Q Learning, Deep Q Learning, A3C, MiniMax, MCTS |
+| **Data Analysis** | Pandas, NumPy, Tableau, Matplotlib |
+
+---
+
+## 🛠️ Key Projects
+
+### 📈 Algorithmic Trading Forecasting Platform (Nov 2025)
+* Designed and implemented a robust **Airflow-based ETL pipeline** to ingest and process real-time market data.
+* Developed an advanced **time series model** to forecast stock prices.
+* Generated automated buy/sell signals to optimize portfolio returns, showcasing a complete end-to-end MLOps application.
+
+### 🏠 Home Server for DL/MLOps (Oct 2025)
+* Setup a Linux local server environment for running resource-intensive Deep Learning models and Airflow DAGs.
+* A dedicated platform for personal **MLOps practice** and rapid experimentation.
+
+### 🤖 Core AI Implementations
+* **Chess Bot (April 2024):** Developed a classic game AI utilizing the **MiniMax** and **MCTS (Monte Carlo Tree Search)** algorithms in Python.
+* **Lunar Lander Agent (Nov 2023):** Implemented a Reinforcement Learning agent employing **ANN** and **CNN** models.
+
+---
+
+## 📚 Education & Certifications
+
+### Technion – Israel Institute of Technology (2020 – 2024)
+* **B.Sc. in Data Science** (Final GPA: 85.3)
+* **Relevant Coursework:** Advanced Machine Learning, Deep Learning, Artificial Intelligence, Statistics, and Optimization.
+
+### Certifications
+* [Deep Learning A-Z, Udemy](https://www.udemy.com/certificate/UC-9e372a8c-82aa-432b-9a87-f0c0b74f538c/)
+* [Artificial Intelligence A-Z, Udemy](https://www.udemy.com/certificate/UC-713be104-cdbe-4d7c-8c3a-39bd577c06aa/)
+* [Django Full Stack Bootcamp, Udemy](https://www.udemy.com/certificate/UC-be4a0bab-8d7e-4e74-a717-d24637eda3ce/)
+
+---
+
+## 🌐 Get In Touch
+
+| Contact | Details |
+| :--- | :--- |
+| **Email** | saleemkheralden21@gmail.com |
+| **LinkedIn** | [linkedin.com/in/saleemkheralden](https://www.linkedin.com/in/saleemkheralden/) |
+| **GitHub** | [github.com/saleemkheralden](https://github.com/saleemkheralden) |
+| **GitLab** | [gitlab.com/saleemkheralden](https://gitlab.com/saleemkheralden) |
+
+### 💬 Let's Connect!
+I am always open to discussing new projects, collaborations, or exciting opportunities in the field of AI and Data Science. Feel free to reach out!
+
+---
+<div align="center">
+  <p>🚀 Stay tuned for more updates and projects!</p>
+</div>
