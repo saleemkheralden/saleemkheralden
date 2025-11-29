@@ -53,8 +53,11 @@ I am an **AI Engineer** at the IDF, transitioning from a Data Engineering role. 
 ## 📚 Education & Certifications
 
 ### Technion – Israel Institute of Technology (2020 – 2024)
-* **B.Sc. in Data Science** (Final GPA: 85.3)
+* **B.Sc. in Data Science**
 * **Relevant Coursework:** Advanced Machine Learning, Deep Learning, Artificial Intelligence, Statistics, and Optimization.
+
+### Magshimim Cyber Education Center (2018 – 2020)
+* Specialized in Full Stack development and Deep Learning/NLP projects.
 
 ### Certifications
 * [Deep Learning A-Z, Udemy](https://www.udemy.com/certificate/UC-9e372a8c-82aa-432b-9a87-f0c0b74f538c/)
